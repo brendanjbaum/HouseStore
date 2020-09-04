@@ -1,0 +1,44 @@
+@charset "UTF-8";
+.navbar.navbar-expand-lg.navbar-light {
+    background-color: #D4BB15;
+}
+.jumbotron.text-center {
+    background-image: url(../top-hero.jpg);
+    background-size: cover;
+    background-position: center center;
+    color: #FFFFFF;
+}
+.jumbotron.text-center .lead {
+}
+.jumbotron.text-center .lead {
+    max-width: 600px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.jumbotron.text-center .lead .btn.btn-primary.btn-lg {
+    background-color: #D4BB15;
+}
+.row .col-lg-4.text-center img {
+    width: 90%;
+    border-radius: 300px;
+    height: auto;
+    margin-bottom: 20px;
+}
+.redtext {
+    color: #FF0004;
+}
+.greentext {
+    color: #19790F;
+}
+.bluetext {
+    color: #0600FF;
+}
+.jumbotron.text-center.footer {
+    background-image: url(../footer.jpg);
+}
+* {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.footer {
+}
